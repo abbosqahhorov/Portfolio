@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @AbbosFullStackProgrammer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Abbos 👋
 
-<!---
-AbbosFullStackProgrammer/AbbosFullStackProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full Stack Developer building web applications and digital products.
+
+🚀 Currently working on [Bronla](https://bronla.uz), a platform for booking vacation rentals and hotels.
+
+🔧 Interested in web development, API integrations, and AI-powered tools.
+
+🤝 Open to collaborating on useful products and open-source projects.
+
+📫 Reach me at [mail@bronla.uz](mailto:mail@bronla.uz).
